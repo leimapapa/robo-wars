@@ -1,7 +1,7 @@
 # Robo-Wars
-Learn some JavaScript by creating a brain class for a battling robot
+Learn some JavaScript by creating a brain class for a battling robot!
 
-![vectorfetti.png](vectorfetti.png)
+![RoboWarsBattle.png](RoboWarsBattle.png)
 
 ## Dependencies
 
