@@ -57,8 +57,8 @@ class CustomBrain {
       }
 ```
 
-## CDN
-https://cdn.jsdelivr.net/gh/leimapapa/robo-wars/index.html
+## Live View
+https://leimapapa.github.io/robo-wars/index.html
 
 ## Working Example
 [codepen example](https://codepen.io/leimapapa/pen/QWJJgxW)
