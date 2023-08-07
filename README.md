@@ -5,7 +5,7 @@ Learn some JavaScript by creating a brain class for a battling robot!
 
 ## Dependencies
 
-* None! (well, there's a code styling library that is used to explain the rules in the menu)
+* None! (well, there's a code styling library that is used to explain the rules in the menu, but none for the game itself)
 
 
 ## Usage
