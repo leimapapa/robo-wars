@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Robo Wars</title>
     <script src="https://lukyvj.github.io/rainbow.js/assets/js/prism.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://lukyvj.github.io/rainbow.js/assets/css/prism.css"
+    />
     <style>
       body {
         background: #222;
@@ -1968,16 +1972,16 @@ class Brain {
         }
 
         /* 
-	these calls are available any time and do NOT take the place of a decision
-	
-	this.scan();
-	will either return:
-	1. an object with the enemy's x and y (if an enemy is within the scan radius)
-	2. an empty object (if no enemy within the radius)
-	
-	this.whereAmI();
-	will return your x and y in an object (ex: {x: 25, y: 61})
-	*/
+        these calls are available any time and do NOT take the place of a decision
+        
+        this.scan();
+        will either return:
+        1. an object with the enemy's x and y (if an enemy is within the scan radius)
+        2. an empty object (if no enemy within the radius)
+        
+        this.whereAmI();
+        will return your x and y in an object (ex: {x: 25, y: 61})
+        */
         // random integer generator
         randInt(min, max) {
           return Math.floor(Math.random() * (max - min + 1)) + min;
