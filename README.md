@@ -1,7 +1,7 @@
 # Robo-Wars
 Learn some JavaScript by creating a brain class for a battling robot!
 
-![RoboWarsBattle.png](RoboWarsBattle.png)
+<img src="RoboWarsBattle.png" title="RoboWarsBattle.png" width="400">
 
 ## Dependencies
 
