@@ -58,7 +58,7 @@ class CustomBrain {
 ```
 
 ## Live View
-https://leimapapa.github.io/robo-wars/index.html
+https://leimapapa.github.io/robo-wars/
 
 ## Working Example
 [codepen example](https://codepen.io/leimapapa/pen/QWJJgxW)
