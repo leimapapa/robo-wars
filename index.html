@@ -2095,7 +2095,6 @@ export default class MyBrain {
       // reformat html of pre tags
       if (pres !== null) {
         for (let i = 0; i < pres.length; i++) {
-          if (window.CP.shouldStopExecution(0)) break;
           // check if its a pre tag with a prism class
           if (isPrismClass(pres[i])) {
             // insert code and copy element
@@ -2104,7 +2103,6 @@ export default class MyBrain {
             ].innerHTML = `<code class="${pres[i].className}">${pres[i].innerHTML}</code>`;
           }
         }
-        window.CP.exitedLoop(0);
       }
 
       // helper function
